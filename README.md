@@ -42,7 +42,7 @@ To view the website locally:
 Clone the repository:
 
 bash
-git clone https://github.com/yLeGrand-Jnr/Ben.git
+git clone https://github.com/LeGrand-Jnr/Ben.git
 Open index.html in your browser.
 
 Enjoy the artwork!
